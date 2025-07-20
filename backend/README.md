@@ -1,5 +1,7 @@
 Start:
 poetry install
+python -m venv .venv
+source .venv/bin/activate
 fastapi dev main.py
 
 Apollo Sandbox: http://localhost:8000
