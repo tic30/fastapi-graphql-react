@@ -2,7 +2,7 @@
 name = "poetry-demo"
 version = "0.1.0"
 description = ""
-authors = ["Tim Chu <tchu@indeed.com>"]
+authors = ["Tim Chu <tc.timchu@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
