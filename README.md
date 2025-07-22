@@ -42,6 +42,6 @@ Frontend available at: http://localhost:5173
 -   `/frontend` - React + TypeScript + Vite application with Apollo Client
 -   `/backend` - FastAPI + Strawberry GraphQL API server
 
-```
+## Variants
 
-```
+-   `chromatic` branch also inclues Chromatic. After pulling, follow https://www.chromatic.com/docs/quickstart/ to finish the setup.
